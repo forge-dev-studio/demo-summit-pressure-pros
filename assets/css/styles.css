@@ -13,8 +13,8 @@
   --color-primary-light: #03A9F4;
   --color-secondary: #37474F;
   --color-secondary-light: #546E7A;
-  --color-accent: #FF7043;
-  --color-accent-light: #FF8A65;
+  --color-accent: #FFFFFF;
+  --color-accent-light: #F0F9FF;
   
   /* Neutral Colors */
   --color-white: #FFFFFF;
@@ -1712,3 +1712,8 @@ body {
 }
 
 
+
+.hero {
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../images/hero.jpg') no-repeat center center !important;
+  background-size: cover !important;
+}
