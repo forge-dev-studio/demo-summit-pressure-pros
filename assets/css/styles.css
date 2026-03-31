@@ -8,13 +8,13 @@
    ========================================== */
 :root {
   /* Brand Colors - Nature Inspired */
-  --color-primary: #BF360C;
-  --color-primary-dark: #8C2700;
-  --color-primary-light: #E64A19;
+  --color-primary: #0288D1;
+  --color-primary-dark: #01579B;
+  --color-primary-light: #03A9F4;
   --color-secondary: #37474F;
   --color-secondary-light: #546E7A;
-  --color-accent: #F57C00;
-  --color-accent-light: #FB8C00;
+  --color-accent: #FF7043;
+  --color-accent-light: #FF8A65;
   
   /* Neutral Colors */
   --color-white: #FFFFFF;
